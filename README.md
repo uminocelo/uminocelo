@@ -1,4 +1,4 @@
-# Hey! It's me Marcelo :wave:
+# Hey! It's me Marcelo :wave: :man_technologist:
 
 <!--
 **uminocelo/uminocelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
