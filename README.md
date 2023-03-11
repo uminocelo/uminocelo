@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F722E8&center=true&width=435&lines=Hey!+It's+me+Marcelo!)](https://git.io/typing-svg)
-
+# Hey! It's me Marcelo :wave:
 
 <!--
 **uminocelo/uminocelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- I'm a software developer. 
+
+I've had experience working with technologies such as Ruby on Rails, NodeJS, Elixir, MySQL, PostgreSQL, Docker, JavaScript, PHP, HTML, and CSS. 
+
+I'm an active student, very curious and focused.
+
+I'm always looking to understand and apply the best possible practices. I am currently passionate and focused on the Back-end area and software architectures. -->
