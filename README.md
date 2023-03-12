@@ -1,9 +1,5 @@
 # Hey! It's me Marcelo :wave:
 
-### Pronouns
-
-he/him.
-
 ### About me
 
 I'm a software developer from Brazil :brazil:. I'm a very curious and hard working person. I've working with **Elixir** and **RoR** mainly, but I'm also interest in languages like **Go**, **Python** and **Node.js**. I love to study about software architecture and performance.
