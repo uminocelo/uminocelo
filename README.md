@@ -1,24 +1,24 @@
-# Hey! It's me Marcelo :wave: :man_technologist:
+### Hey! It's me Marcelo :wave: :man_technologist:
 
-<!--
-**uminocelo/uminocelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Pronouns: he/him.
+- I'm a software developer.
+- I have a b.tech in systems analysis and development.
+- I currently live in Brazil :brazil:.
 
-Here are some ideas to get you started:
+[Professional]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    I have experience as a back-end and full stack.
 
-<!-- I'm a software developer. 
+    Stacks with the languages below:
 
-I've had experience working with technologies such as Ruby on Rails, NodeJS, Elixir, MySQL, PostgreSQL, Docker, JavaScript, PHP, HTML, and CSS. 
+    Elixir, Ruby, Ruby on Rails, Node.js, PHP, Vue.js, Ionic, MySQL, PostgreSQL, Redis.
 
-I'm an active student, very curious and focused.
+[Hobby]
 
-I'm always looking to understand and apply the best possible practices. I am currently passionate and focused on the Back-end area and software architectures. -->
+    I love to learn new and random things, for example: gardening :rose: or mysticism/esotericism :crystal_ball:.
+
+    I love anime, music and learning new languages like Russian and Japanese.
+
+    I love card games, pokemon tcg and magic.
+
+    I'm currently learning GoLang and other cool things :rofl:.
