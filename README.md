@@ -14,8 +14,10 @@ I'm a software developer from Brazil :brazil:. I'm a very curious and hard worki
 
 I love to learn new and random things, for example: gardening :rose: or mysticism/esotericism :crystal_ball:.
 
-I love anime, music and learning new languages like Russian and Japanese.
+I love to watch anime, listen to music and learning new languages like Russian and Japanese.
 
 I love card games, pokemon tcg and magic.
 
 I'm currently learning GoLang and other cool things :rofl:.
+
+!["One piece gif"](https://media.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif)
