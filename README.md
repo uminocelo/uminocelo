@@ -5,7 +5,9 @@
 - I have a b.tech in systems analysis and development.
 - I currently live in Brazil :brazil:.
 
-[Professional]
+### Professional
+
+___
 
 I have experience as a back-end and full stack.
 
@@ -13,7 +15,9 @@ Stacks with the languages below:
 
 Elixir, Ruby, Ruby on Rails, Node.js, PHP, Vue.js, Ionic, MySQL, PostgreSQL, Redis.
 
-[Hobby]
+### Hobbies
+
+___
 
 I love to learn new and random things, for example: gardening :rose: or mysticism/esotericism :crystal_ball:.
 
