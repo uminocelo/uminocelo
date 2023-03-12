@@ -6,14 +6,8 @@ he/him.
 
 ### About me
 
-- I am a very curious and hard working person.
-- I'm a software developer.
-- I have a b.tech in systems analysis and development.
-- I currently live in Brazil :brazil:.
-- I have experience as a back-end and full stack.
-- Stacks with the languages below:
+I'm a software developer from Brazil :brazil:. I'm a very curious and hard working person. I've working with Elixir, RoR and PHP mainly, but I'm always open to new languages :rofl:.
 
-Elixir, Ruby, Ruby on Rails, Node.js, PHP, Vue.js, Ionic, MySQL, PostgreSQL, Redis.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=7000&pause=1000&color=00A406&center=true&vCenter=true&multiline=true&width=700&lines=%22IT+IS+IMPORTANT+TO+DRAW+WISDOM+FROM+MANY+DIFFERENT+PLACES.%22;Uncle+Iroh)](https://git.io/typing-svg)
 
