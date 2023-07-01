@@ -10,7 +10,7 @@ I'm a very curious and hard-working person, so here you can find projects of dif
 
 I've had the opportunity to work with languages like Elixir, RoR, NodeJS and PHP, but I'm always open to new languages.
 
-I am currently studying Go, Swift, Python and Java languages.
+I'm currently working on things related to Docker, PostgreSQL, MongoDB, VIM, Go, Swift, Python and Java.
 
 I love studying and understanding more about software architecture and performance.
 
