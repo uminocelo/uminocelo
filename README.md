@@ -6,11 +6,13 @@
 
 I'm a brazilian software developer :brazil:.
 
-I'm a very curious and hard working person.
+I'm a very curious and hard-working person, so here you can find projects of different languages and "types", including mobile, backend, data science and some frontend stuff.
 
-I've working with **Elixir** and **RoR** mainly, but I'm also interest in languages like **Go**, **Python** and **Node.js**.
+I've had the opportunity to work with languages like Elixir, RoR, NodeJS and PHP, but I'm always open to new languages.
 
-I love to study about software architecture and performance.
+I am currently studying Go, Swift, Python and Java languages.
+
+I love studying and understanding more about software architecture and performance.
 
 <br/>
 
