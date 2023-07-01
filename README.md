@@ -18,4 +18,4 @@ I love studying and understanding more about software architecture and performan
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=7000&pause=1000&color=1070E3&center=true&vCenter=true&multiline=true&width=700&lines=%22IT+IS+IMPORTANT+TO+DRAW+WISDOM+FROM+MANY+DIFFERENT+PLACES.%22;Uncle+Iroh)](https://git.io/typing-svg)
 
-You can find projects with names and themes related to anime or geek things :-)
+You can find projects with names and themes related to anime or geek things :slightly_smiling_face: :space_invader:
