@@ -21,6 +21,7 @@ I'm Marcelo, but call me Celo, a rōnin software developer based in Brazil.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [O nosso amiguinho HTTP](https://dev.to/uminocelo/o-nosso-amiguinho-http-42b9)
 <!-- BLOG-POST-LIST:END -->
 
 ## Interests
