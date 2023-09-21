@@ -1,21 +1,38 @@
-# Hey! It's me Marcelo :wave:
+# Hey there! :wave:
 
-### About me
+I'm Marcelo, but call me Celo, a rōnin software developer based in Brazil.
 
-<img align='right' src='https://media.giphy.com/media/9S1CJae4qyOZGLWa4y/giphy.gif' width='200'/>
+## About me
 
-I'm a brazilian software developer :brazil:.
+- 💼 I'm currently not working, so I'm available for new opportunities.
+- 🎓 Graduated from Positivo University with a b. tech in Analysis and systems development.
+- 🌱 Always eager to learn and explore new technologies.
+- 💚 Back-end and mobile development attract me.
 
-I'm a very curious and hard-working person, so here you can find projects of different languages and "types", including mobile, backend, data science and some frontend stuff.
 
-I've had the opportunity to work with languages like Elixir, RoR, NodeJS and PHP, but I'm always open to new languages.
+## My Stats
 
-I'm currently working on things related to Docker, PostgreSQL, MongoDB, VIM, Go, Swift, Python and Java.
+[![Celo's GitHub stats](https://github-readme-stats.vercel.app/api?username=uminocelo&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-I love studying and understanding more about software architecture and performance.
+## My Top Langs
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uminocelo&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=7000&pause=1000&color=1070E3&center=true&vCenter=true&multiline=true&width=700&lines=%22IT+IS+IMPORTANT+TO+DRAW+WISDOM+FROM+MANY+DIFFERENT+PLACES.%22;Uncle+Iroh)](https://git.io/typing-svg)
 
-You can find projects with names and themes related to anime or geek things :slightly_smiling_face: :space_invader:
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Interests
+
+- 📺 Watching: One Piece and Jujutsu Kaisen.
+- 🎧 Music: enjoying the beat of the moment, techno, edm and hip-hop/rap.
+- 🎮 Games: Marvel's Spider-Man(PS4) and The Legend of Zelda: Breath of the Wild(switch).
+
+___
+
+Feel free to reach out if you'd like to collaborate or chat about anything tech-related! 😄
+
+![izzy-computer](./izumi_digimon-computer.gif)
+
+⚔️👺 ___You can find some projects with funny or geek/otaku names, I'm sorry___ 👺⚔️
