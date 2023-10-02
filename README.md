@@ -1,13 +1,13 @@
 # Hey there! :wave:
 
-I'm Marcelo, but call me Celo, a rōnin software developer based in Brazil.
+I'm Marcelo, but call me Celo, a ___rōnin___ software developer based in Brazil.
 
 ## About me
 
 - 💼 I'm currently not working, so I'm available for new opportunities.
 - 🎓 Graduated from Positivo University with a b. tech in Analysis and systems development.
 - 🌱 Always eager to learn and explore new technologies.
-- 💚 Back-end and mobile development attract me.
+- 💚 Back-end and mobile development attract my heart.
 
 
 ## My Stats
@@ -23,6 +23,10 @@ I'm Marcelo, but call me Celo, a rōnin software developer based in Brazil.
 <!-- BLOG-POST-LIST:START -->
 - [O nosso amiguinho HTTP](https://dev.to/uminocelo/o-nosso-amiguinho-http-42b9)
 <!-- BLOG-POST-LIST:END -->
+
+## Studies
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e747cdb128dce3cb6f2228?variant=dark&roadmaps=computer-science%2Ccyber-security%2Csoftware-design-architecture%2Cbackend)](https://roadmap.sh)
 
 ## Interests
 
