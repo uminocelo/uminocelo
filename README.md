@@ -21,6 +21,7 @@ I'm Marcelo, but call me Celo, a ___rōnin___ software developer based in Brazil
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Navegando nas Ondas da Dúvida: Me preparando para uma Nova Jornada de Superação](https://uminocelo.hashnode.dev/navegando-nas-ondas-da-duvida-me-preparando-para-uma-nova-jornada-de-superacao)
 - [O nosso amiguinho HTTP](https://dev.to/uminocelo/o-nosso-amiguinho-http-42b9)
 <!-- BLOG-POST-LIST:END -->
 
