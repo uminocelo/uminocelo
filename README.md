@@ -21,6 +21,7 @@ I'm Marcelo, but call me Celo, a ___rōnin___ software developer based in Brazil
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Da Dúvida à Decisão - Escolhendo a Linguagem de Programação Certa para Você](https://uminocelo.hashnode.dev/da-duvida-a-decisao-escolhendo-a-linguagem-de-programacao-certa-para-voce)
 - [Navegando nas Ondas da Dúvida: Me preparando para uma Nova Jornada de Superação](https://uminocelo.hashnode.dev/navegando-nas-ondas-da-duvida-me-preparando-para-uma-nova-jornada-de-superacao)
 - [O nosso amiguinho HTTP](https://dev.to/uminocelo/o-nosso-amiguinho-http-42b9)
 <!-- BLOG-POST-LIST:END -->
