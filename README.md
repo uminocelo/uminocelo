@@ -21,6 +21,8 @@ I'm Marcelo, but call me Celo, a ___rōnin___ software programmer based in Brazi
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Da Dúvida à Decisão - Escolhendo a Linguagem de Programação Certa para Você](https://uminocelo.dev/como-escolher-linguagem-programacao)
+- [Navegando nas Ondas da Dúvida: Me preparando para uma Nova Jornada de Superação](https://uminocelo.dev/superando-a-sindrome-do-impostor-como-desenvolvedor-de-software)
 <!-- BLOG-POST-LIST:END -->
 
 ## Studies
