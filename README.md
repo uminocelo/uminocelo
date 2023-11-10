@@ -1,10 +1,10 @@
 # Hey there! :wave:
 
-I'm Marcelo, but call me Celo, a ___rōnin___ software programmer based in Brazil :brazil:.
+I'm Marcelo, but call me Celo, a creative software programmer based in Brazil :brazil:.
 
 ## About me
 
-- 💼 I'm currently not working, so I'm available for new opportunities.
+- 💼 I'm available for new opportunities.
 - 🎓 Graduated from Positivo University with a b. tech in Analysis and systems development.
 - 🌱 Always eager to learn and explore new technologies.
 - 🧠 using the brain to build cool things...
