@@ -21,6 +21,7 @@ I'm Marcelo, but call me Celo, a creative software programmer based in Brazil :b
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [O Inicio de uma Expedição de Mergulho: Uma exploração no Oceano Flutuante](https://uminocelo.dev/mergulho-numeros-floats-ciencia-computacao)
 - [O Inicio de uma Exploração: O Tipo Integer no Ciberespaço](https://uminocelo.dev/integer-conhecendo-o-tipo-de-dados-primitivo)
 - [Estruturas de Dados: Conhecendo o Coração da Ciência da Computação](https://uminocelo.dev/motivos-aprender-estruturas-de-dados)
 - [Da Dúvida à Decisão - Escolhendo a Linguagem de Programação Certa para Você](https://uminocelo.dev/como-escolher-linguagem-programacao)
