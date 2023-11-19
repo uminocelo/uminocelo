@@ -1,6 +1,6 @@
 # Hey there! :wave:
 
-I'm Marcelo, but call me Celo, a creative software programmer based in Brazil :brazil:.
+I'm Marcelo, but call me Celo, a software developer based in Brazil :brazil:.
 
 ## About me
 
