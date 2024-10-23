@@ -1,11 +1,13 @@
 # Hey there! :wave:
 
-I'm Marcelo, but call me Celo, a software developer based in Brazil :brazil:.
+I'm Marcelo, but call me Celo, a ___rōnin___ software developer & data scientist(in progress) in based in Brazil :brazil:.
 
 ## About me
 
-- 💼 I'm available for new opportunities.
+- 💼 I'm currently not working, so I'm available for new opportunities.
 - 🎓 Graduated from Positivo University with a b. tech in Analysis and systems development.
+- 🎓 Currently studying my second graduation from Uni Dom Bosco with Bachelor in Data Science and Artificial Intelligence
+- 🎓 Currently studying my specialization from Estacio de Sá High Performance Computation 
 - 🌱 Always eager to learn and explore new technologies.
 - 🧠 using the brain to build cool things...
 
@@ -19,9 +21,8 @@ I'm Marcelo, but call me Celo, a software developer based in Brazil :brazil:.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uminocelo&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Studies
+
 
 ## Interests
 
