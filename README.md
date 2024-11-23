@@ -6,7 +6,7 @@ I'm Marcelo, but call me Celo, a ___rōnin___ software developer & data scientis
 
 - 💼 I'm currently not working, so I'm available for new opportunities.
 - 🎓 Graduated from Positivo University with a b. tech in Analysis and systems development.
-- 🎓 Currently studying my second graduation from Uni Dom Bosco with Bachelor in Data Science and Artificial Intelligence.
+- 🎓 Currently studying my second graduation from Positivo University with Bachelor of Computer Science.
 - 🎓 Currently studying my specialization from Estacio de Sá in High Performance Computation.
 - 🌱 Always eager to learn and explore new technologies.
 - 🧠 using the brain to build cool things...
