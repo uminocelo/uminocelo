@@ -9,8 +9,6 @@ I'm Marcelo, but call me Celo, a software developer in based in Brazil :brazil:.
 - 🎓 Currently studying my second graduation from Positivo University with Bachelor of Computer Science.
 - 🎓 Currently studying my specialization from Estacio de Sá in High Performance Computation.
 - 🌱 Always eager to learn and explore new technologies.
-- 🧠 using the brain to build cool things...
-
 
 ## My Stats
 
