@@ -1,10 +1,10 @@
 # Hey there! :wave:
 
-I'm Marcelo, but call me Celo, a ___rōnin___ software developer & data scientist(in progress) in based in Brazil :brazil:.
+I'm Marcelo, but call me Celo, a software developer in based in Brazil :brazil:.
 
 ## About me
 
-- 💼 I'm currently not working, so I'm available for new opportunities.
+- 💼 I'm available for new opportunities.
 - 🎓 Graduated from Positivo University with a b. tech in Analysis and systems development.
 - 🎓 Currently studying my second graduation from Positivo University with Bachelor of Computer Science.
 - 🎓 Currently studying my specialization from Estacio de Sá in High Performance Computation.
